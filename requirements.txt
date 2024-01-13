@@ -2,6 +2,7 @@ numpy
 seaborn
 matplotlib
 pandas
-sikit-learn
+scikit-learn
 flask
+datetime
 -e .
