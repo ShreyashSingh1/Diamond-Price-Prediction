@@ -5,4 +5,6 @@ pandas
 scikit-learn
 flask
 datetime
+pickle
+flask
 -e .
